@@ -1,3 +1,8 @@
+// question link 
+//https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+
+//solution:
+
 class Solution {
 public:
     // Helper function to check if a character is a vowel

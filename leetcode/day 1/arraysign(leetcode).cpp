@@ -1,3 +1,7 @@
+ //question link https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
+
+
+//solution:
 class Solution {
 public:
     int arraySign(vector<int>& nums)

@@ -1,4 +1,8 @@
 
+// question link 
+//https://leetcode.com/problems/dota2-senate/
+
+//solution:
 class Solution {
 
 public:
