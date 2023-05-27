@@ -1,3 +1,8 @@
+// question link 
+//https://leetcode.com/problems/elimination-game/submissions/
+
+//solution:
+
 class Solution {
 public:
    int game(int n)
